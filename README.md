@@ -1,11 +1,9 @@
 # typo_dict
-Typos or common abbrebations (e.g., 'luv'->'love', 'gr8'->'great') bring many challenges in natural language processing.
-It makes the parser hard to recognize the syntax.
+Typos or common abbrebations (e.g., 'luv'->'love', 'gr8'->'great') are very common in social media such as Facebook, Twitter and Whatsapp. It hinders NL parsers to recognize the syntax and brings many challenges in natural language processing.
 
-This project provides a dictionary of common typos and corresponding corrections.
 
-## Requirements
-* [Python 2.7](https://www.continuum.io/downloads)
+This project aims to manually summarize a dictionary of common typos and corresponding corrections.
+
 
 ## Usage 
 
@@ -16,9 +14,9 @@ $ git clone https://github.com/guxd/typo_dict.git
 
 
 ## File Introduction
-1. typos.py
+1. typos_en_social.py
    Typos in social media, e.g., Twitter, Facebook, Whatsapp
    
-2. typos_program.py
+2. typos_en_program.py
    Typos in programming environment, e.g., StackOverflow
 
