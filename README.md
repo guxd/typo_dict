@@ -17,7 +17,7 @@ $ git clone https://github.com/guxd/typo_dict.git
 
 ## File Introduction
 1. typos.py
-   Typos in daily chatting, e.g., Twitter, Facebook, Whatsapp
+   Typos in social media, e.g., Twitter, Facebook, Whatsapp
    
 2. typos_program.py
    Typos in programming environment, e.g., StackOverflow
